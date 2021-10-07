@@ -224,6 +224,14 @@ nav.scrolled {
   margin-bottom: 1rem;
 }
 
+.section.question-action .contact p {
+  text-align: center;
+  font-weight: 300;
+}
+.section.question-action .contact span {
+  color: #5f6368;
+}
+
 .section.users .info-player {
   display: flex;
   justify-content: center;
